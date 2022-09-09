@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'PT Serif', serif;
+}
+
+
+.nav-top{
+    display: flex;
+    justify-content: space-between !important;
+    flex-grow: 0 !important ;
+
+}
+
+.navbar-bottom{
+    height: 470px;
+}
+
+.bg-yellow{
+    background: #ffc017; 
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.asside-buttons > li{
+    margin-bottom: 10px;
+}
